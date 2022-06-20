@@ -2,7 +2,7 @@
     "name": "weekly_lotto_picks",
     "short_name": "weekly_lotto_picks",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#8D50EC",
     "description": "Weekly Lotto Picks",
