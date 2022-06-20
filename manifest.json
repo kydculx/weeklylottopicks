@@ -1,11 +1,11 @@
 {
-    "name": "weekly_lotto_picks",
-    "short_name": "weekly_lotto_picks",
+    "name": "Weekly Picks",
+    "short_name": "Weekly Picks",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#8D50EC",
-    "description": "Weekly Lotto Picks",
+    "description": "Weekly Picks",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
